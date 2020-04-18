@@ -1,3 +1,6 @@
+
+
 fn main() {
-    println!("Hello, world!");
+    let token = include_str!("../data/token.txt");
+    
 }
